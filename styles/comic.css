@@ -347,7 +347,7 @@ footer {
     .collection .other-posters {
         display: grid;
         gap: 30px 30px;
-        grid-template-columns: auto auto auto auto auto;
+        grid-template-columns: auto auto auto auto;
     }
 
     .collection .other-posters img {
