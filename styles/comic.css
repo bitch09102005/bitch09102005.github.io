@@ -356,10 +356,6 @@ footer {
         object-fit: cover;
         margin: 0px;
     }
-
-    .collection hr {
-        width: 1220px;
-    }
 }
 
 @media screen and (max-width: 1135px) {
